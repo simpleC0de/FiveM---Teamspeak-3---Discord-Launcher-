@@ -1,0 +1,7 @@
+c:\users\hanssepp\source\repos\FiveM Island Roleplay Starter\FiveM Island Roleplay Starter\obj\Release\FiveM Island Roleplay Starter.csproj.CoreCompileInputs.cache
+c:\users\hanssepp\source\repos\FiveM Island Roleplay Starter\FiveM Island Roleplay Starter\obj\Release\FiveM Island Roleplay Starter.csprojAssemblyReference.cache
+c:\users\hanssepp\source\repos\FiveM Island Roleplay Starter\FiveM Island Roleplay Starter\bin\Release\FiveM - Teamspeak 3 - Discord Launcher.exe.config
+c:\users\hanssepp\source\repos\FiveM Island Roleplay Starter\FiveM Island Roleplay Starter\bin\Release\FiveM - Teamspeak 3 - Discord Launcher.exe
+c:\users\hanssepp\source\repos\FiveM Island Roleplay Starter\FiveM Island Roleplay Starter\bin\Release\FiveM - Teamspeak 3 - Discord Launcher.pdb
+c:\users\hanssepp\source\repos\FiveM Island Roleplay Starter\FiveM Island Roleplay Starter\obj\Release\FiveM - Teamspeak 3 - Discord Launcher.exe
+c:\users\hanssepp\source\repos\FiveM Island Roleplay Starter\FiveM Island Roleplay Starter\obj\Release\FiveM - Teamspeak 3 - Discord Launcher.pdb

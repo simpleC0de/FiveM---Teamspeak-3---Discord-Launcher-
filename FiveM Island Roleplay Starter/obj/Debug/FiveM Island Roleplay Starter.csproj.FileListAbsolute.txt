@@ -1,0 +1,7 @@
+c:\users\hanssepp\source\repos\FiveM Island Roleplay Starter\FiveM Island Roleplay Starter\bin\Debug\FiveM Island Roleplay Starter.exe.config
+c:\users\hanssepp\source\repos\FiveM Island Roleplay Starter\FiveM Island Roleplay Starter\bin\Debug\FiveM Island Roleplay Starter.exe
+c:\users\hanssepp\source\repos\FiveM Island Roleplay Starter\FiveM Island Roleplay Starter\bin\Debug\FiveM Island Roleplay Starter.pdb
+c:\users\hanssepp\source\repos\FiveM Island Roleplay Starter\FiveM Island Roleplay Starter\obj\Debug\FiveM Island Roleplay Starter.csprojAssemblyReference.cache
+c:\users\hanssepp\source\repos\FiveM Island Roleplay Starter\FiveM Island Roleplay Starter\obj\Debug\FiveM Island Roleplay Starter.csproj.CoreCompileInputs.cache
+c:\users\hanssepp\source\repos\FiveM Island Roleplay Starter\FiveM Island Roleplay Starter\obj\Debug\FiveM Island Roleplay Starter.exe
+c:\users\hanssepp\source\repos\FiveM Island Roleplay Starter\FiveM Island Roleplay Starter\obj\Debug\FiveM Island Roleplay Starter.pdb
